@@ -42,7 +42,7 @@ The `serve:all` command is a convenience methods that runs the `serve:api` and `
 
 ## Challenges
 
-If you want to follow along with the challenges, you can check out the `start` branch to see the code without solutions. 
+If you want to follow along with the challenges, you can check out the `start` branch to see the code without solutions
 
 ```
 git checkout start
